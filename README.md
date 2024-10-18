@@ -33,7 +33,7 @@ The pipeline is designed to:
 2. **Transform the data** using AWS Glue, applying cleaning and modeling.
 3. **Load the processed data** into an S3 bucket.
 4. **Analyze the data**  using Amazon Athena, which can query the data directly from S3.
-5. **Visualize the data** ia Amazon QuickSight, enabling the creation of reports and interactive dashboards based on the Athena queries.
+5. **Visualize the data** via Amazon QuickSight, enabling the creation of reports and interactive dashboards based on the Athena queries.
 
 
 ## Dashboard
