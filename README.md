@@ -55,4 +55,4 @@ With this pipeline, we can generate a **Sales Performance Dashboard** that allow
 
 ## Detailed Implementation and Results
 For a more in-depth explanation of the project and detailed implementation steps, you can check out my post on Medium that covers each phase of the pipeline setup and execution:
-[Read the full post here](https://medium.com/https://medium.com/@paulodalst/end-to-end-sales-data-pipeline-with-sap-hana-and-aws-integration-fd84af9160db)
+[Read the full post here](https://medium.com/@paulodalst/end-to-end-sales-data-pipeline-with-sap-hana-and-aws-integration-fd84af9160db)
